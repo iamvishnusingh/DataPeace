@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/DataPeace/static/css/main.c09d1e2e.css",
+    "main.js": "/DataPeace/static/js/main.10b9de5c.js",
+    "static/js/787.b38eb9a5.chunk.js": "/DataPeace/static/js/787.b38eb9a5.chunk.js",
+    "index.html": "/DataPeace/index.html",
+    "main.c09d1e2e.css.map": "/DataPeace/static/css/main.c09d1e2e.css.map",
+    "main.10b9de5c.js.map": "/DataPeace/static/js/main.10b9de5c.js.map",
+    "787.b38eb9a5.chunk.js.map": "/DataPeace/static/js/787.b38eb9a5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c09d1e2e.css",
+    "static/js/main.10b9de5c.js"
+  ]
+}
